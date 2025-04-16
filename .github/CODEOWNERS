@@ -1,0 +1,19 @@
+#####################################################
+#
+# List of approvers for Hippy
+#
+#####################################################
+#
+# Learn about CODEOWNERS file format:
+#  https://help.github.com/en/articles/about-code-owners
+#
+
+# universal files
+* @ar @hidawei
+
+
+
+
+
+
+
