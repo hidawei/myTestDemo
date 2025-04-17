@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this, RecyclerViewActivity.class));
 //                if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
-//                    ZonedDateTime zbj = ZonedDateTime.now(); // 默认时区
+//                    ZonedDateTime zbj = ZonedDateTime.now(); // 默认的时区
 //                    long time1 = zbj.toEpochSecond();
 //                    ZonedDateTime zny = ZonedDateTime.now(ZoneId.of("America/New_York")); // 用指定时区获取当前时间
 //                    long time2 = zny.toEpochSecond();
