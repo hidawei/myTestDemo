@@ -8,3 +8,5 @@ fetch all push all 验证3
 
 fetch all push all 验证4
 
+
+fetch all push all 验证6
