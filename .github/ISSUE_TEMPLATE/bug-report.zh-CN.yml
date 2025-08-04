@@ -42,7 +42,9 @@ body:
     attributes:
       label: 重现环境
       description: 请清晰的描述重现该 Issue 的现场环境，如机型、系统及版本、Kuikly SDK版本等信息，这能帮助我们快速定位问题。
-      placeholder: 请填写
+      placeholder: |
+      123
+      456
 
   - type: textarea
     id: remarks
