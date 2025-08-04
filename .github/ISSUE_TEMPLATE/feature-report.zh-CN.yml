@@ -34,10 +34,3 @@ body:
       label: 其他补充信息
       description: 
       placeholder: 请填写
-
-  - type: textarea
-    id: remarks
-    attributes:
-      label: 补充说明
-      description: 可以是遇到这个 bug 的业务场景、上下文等信息。
-      placeholder: 请填写
